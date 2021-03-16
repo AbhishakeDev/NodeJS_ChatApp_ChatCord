@@ -1,5 +1,5 @@
 # This is a NodeJs Chat App
-##ChatApp with different rooms
+## ChatApp with different rooms
 
 ## Usage
 
@@ -15,4 +15,4 @@ npm install -D nodemon(-D for installing as a dev dependency)
 ```bash
 npm run dev     # Express:3000 
 ```
-##Inspired by Brad Traversy
+## Inspired by Brad Traversy
